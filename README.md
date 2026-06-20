@@ -194,6 +194,12 @@ cp .env.example .env
 | `APP_VERSION` | `1.0.0` | Service version |
 | `DEBUG` | `false` | Reserved for local debugging configuration |
 
+## Roadmap
+
+- Add persistent database storage
+- Add authentication and role-based authorization
+- Add pagination for large employee datasets
+- Add department and attendance modules
 
 ## License
 
