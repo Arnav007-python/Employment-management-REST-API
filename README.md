@@ -199,7 +199,7 @@ cp .env.example .env
 - Add persistent database storage
 - Add authentication and role-based authorization
 - Add pagination for large employee datasets
-- Add department and attendance 
+- Add department and attendance modules
 
 ## License
 
